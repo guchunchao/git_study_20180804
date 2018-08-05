@@ -1,5 +1,1 @@
-Git is a distributed version control system.
-Git is free software  distributed under the GPL.
-Git tracks changes of files.
-hello world by "dev" branch
-hello
+hello world by dev issue
