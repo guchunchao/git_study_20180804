@@ -1,3 +1,0 @@
-but
-bug
-hello world
